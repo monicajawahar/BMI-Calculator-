@@ -15,3 +15,8 @@ ui.r-  Contains user interface object
 server.r- Contains server function 
 
 BMI.Rpres-Presentation on this project with links 
+
+Shiny application link:
+
+https://monicajawahar.shinyapps.io/BMI_Calculator/
+
